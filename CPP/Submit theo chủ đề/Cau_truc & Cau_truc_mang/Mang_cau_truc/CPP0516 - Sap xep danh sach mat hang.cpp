@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+using namespace std;
+struct Product {
+    int id;
+    string name,type;
+    float buy,sell,profit;
+    void input() {
+        cin.ignore();
+        getline(cin,name);
+        getline(cin,type);
+        cin >> buy >> sell;
+        profit=sell-buy;
+    }
+    void output() {
+        cout << id << " " << name << " " << type << " ";
+        cout << fixed << setprecision(2) << profit << "\n";
+    }
+};
+bool cmp(Product a,Product b) {
+    return a.profit>b.profit;
+}
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL); cout.tie(NULL);
+    int n; cin >> n;
+    Product a[n];
+    for(int i=0;i<n;i++) {
+        a[i].id=i+1;
+        a[i].input();
+    }
+    sort(a,a+n,cmp);
+    for(int i=0;i<n;i++) a[i].output();
+}

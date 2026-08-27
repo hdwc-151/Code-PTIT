@@ -1,0 +1,1 @@
+{"name":"Local: C04007 - Chen mang_1","url":"c:\\0nlyCodingSource\\Code C\\Code PTIT\\Mang_mot_chieu\\C04007 - Chen mang_1.c","tests":[{"id":1784666318950,"input":"5 3\n1 2 3 4 5\n6 7 8\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\0nlyCodingSource\\Code C\\Code PTIT\\Mang_mot_chieu\\C04007 - Chen mang_1.c","group":"local","local":true}
