@@ -1,7 +1,4 @@
-// // Created by Nguyễn Mạnh Quân
-
 // #include<bits/stdc++.h>
-
 // using namespace std;
 
 // #define mp make_pair
@@ -193,3 +190,5 @@
 //     for (int i = 1; i <= t; i++) solve(i);
 //     return 0;
 // }
+
+//CPP0729 test
