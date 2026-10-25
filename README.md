@@ -31,11 +31,12 @@ Các lời giải chủ yếu phục vụ mục đích học tập và tham kh�
 
 | Nền tảng | Liên kết |
 |---|---|
-| Code PTIT | [Truy cập bài tập](https://code.ptit.edu.vn/student/question) |
+| Code PTIT | [Truy cập bài tập](https://code.ptit.edu.vn) |
 | SPOJ PTIT | [Truy cập SPOJ PTIT](https://www.spoj.com/PTIT/status/) |
-| IT PTIT | [Truy cập bài tập](https://code.itptit.com/problems) |
+| VNOI Wiki | [Truy cập lộ trình](https://wiki.vnoi.info/roadmap/general-roadmap) |
 | Luyện Code | [Truy cập bài tập](https://luyencode.net/problem) |
 | Codeforces | [Truy cập Codeforces](https://codeforces.com/) |
+| Codeforces | [Codeforces sưu tầm của anh Long Vũ](https://codeforces.com/group/TNf7raZKBu/contests) |
 
 ### Cách tra cứu
 
@@ -45,7 +46,7 @@ Các lời giải chủ yếu phục vụ mục đích học tập và tham kh�
 
 ### Tài liệu tham khảo
 
-- [Tài liệu học tập trên Google Drive](https://drive.google.com/drive/folders/1HmSUWBoxB9nhNXb5Be7WTZRsowSs82hO?usp=sharing)
+- [Tài liệu học tập trên Google Drive](https://drive.google.com/drive/u/0/folders/1iDSeet77tzWDghMkriqBXloQGGBw9fff)
 
 ### Ghi chú
 
@@ -78,11 +79,12 @@ The solutions are intended for educational and reference purposes. Some approach
 
 | Platform | Link |
 |---|---|
-| Code PTIT | [Browse problems](https://code.ptit.edu.vn/student/question) |
+| Code PTIT | [Browse problems](https://code.ptit.edu.vn) |
 | SPOJ PTIT | [Visit SPOJ PTIT](https://www.spoj.com/PTIT/status/) |
-| IT PTIT | [Browse problems](https://code.itptit.com/problems) |
+| VNOI Wiki | [Browse roadmap](https://wiki.vnoi.info/roadmap/general-roadmap) |
 | Luyện Code | [Browse problems](https://luyencode.net/problem) |
 | Codeforces | [Visit Codeforces](https://codeforces.com/) |
+| Codeforces | [Codeforces by Long Vũ](https://codeforces.com/group/TNf7raZKBu/contests) |
 
 ### How to Navigate
 
@@ -92,7 +94,7 @@ The solutions are intended for educational and reference purposes. Some approach
 
 ### References
 
-- [Study Materials on Google Drive](https://drive.google.com/drive/folders/1HmSUWBoxB9nhNXb5Be7WTZRsowSs82hO?usp=sharing)
+- [Study Materials on Google Drive](https://drive.google.com/drive/u/0/folders/1iDSeet77tzWDghMkriqBXloQGGBw9fff)
 
 ### Notes
 
